@@ -1,0 +1,87 @@
+<!doctype html>
+			<html>
+			<head>
+			<title>ProtoCinese</title>
+			<style>
+				@font-face {
+					font-family: "ProtoCinese";
+					src: url("ProtoChinese.svg") format("svg"),
+					     url("ProtoChinese.woff") format("woff"),
+					     url("ProtoChinese.ttf") format("truetype");
+					font-weight: normal;
+					font-style: normal;
+				}
+				body {
+					font-family: sans-serif;
+					color: #444;
+					line-height: 1.5;
+					font-size: 16px;
+					padding: 20px;
+				}
+				* {
+					-moz-box-sizing: border-box;
+					-webkit-box-sizing: border-box;
+					box-sizing: border-box;
+					margin: 0;
+					paddin: 0;
+				}
+				.glyph{
+					display: inline-block;
+					width: 120px;
+					margin: 10px;
+					text-align: center;
+					vertical-align: top;
+					background: #eee;
+					border-radius: 10px;
+					box-shadow: 1px 1px 5px rgba(0, 0, 0, .2);
+				}
+				.glyph-icon{
+					padding: 10px;
+					display: block;
+					font-family: "ProtoCinese";
+					font-size: 64px;
+					line-height: 1;
+				}
+				.glyph-icon:before{
+					content: attr(data-icon);
+				}
+				.class-name{
+					font-size: 12px;
+				}
+				.glyph > input{
+					display: block;
+					width: 100px;
+					margin: 5px auto;
+					text-align: center;
+					font-size: 12px;
+					cursor: text;
+				}
+				.glyph > input.icon-input{
+					font-family: "ProtoCinese";
+					font-size: 16px;
+					margin-bottom: 10px;
+				}
+			</style>
+			</head>
+			<body>
+			<section id="glyphs"><div class="glyph">
+				<div class="glyph-icon" data-icon="&#x2f47;"></div>
+				<div class="class-name">icon-uni2F47</div>
+				<input type="text" readonly="readonly" value="&amp;#x2f47;" />
+				<input type="text" readonly="readonly" value="\2f47" />
+				<input type="text" readonly="readonly" value="&#x2f47;" class="icon-input" />
+			</div><div class="glyph">
+				<div class="glyph-icon" data-icon="&#x2f49;"></div>
+				<div class="class-name">icon-uni2F49</div>
+				<input type="text" readonly="readonly" value="&amp;#x2f49;" />
+				<input type="text" readonly="readonly" value="\2f49" />
+				<input type="text" readonly="readonly" value="&#x2f49;" class="icon-input" />
+			</div><div class="glyph">
+				<div class="glyph-icon" data-icon="&#x2fe0;"></div>
+				<div class="class-name">icon-uni2FE0</div>
+				<input type="text" readonly="readonly" value="&amp;#x2fe0;" />
+				<input type="text" readonly="readonly" value="\2fe0" />
+				<input type="text" readonly="readonly" value="&#x2fe0;" class="icon-input" />
+			</div></section>
+			</body>
+		</html>
