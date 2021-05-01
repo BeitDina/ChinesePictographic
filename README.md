@@ -17,5 +17,5 @@ Version 0.1 Alpha
 
 ## Getting Involved
 
-Send suggestions for changes to the *ChinesePictographic* project by submitting a [new issue](https://github.com/unicode-org/ChinesePictographic/issues/new).
+Send suggestions for changes to the *ChinesePictographic* project by submitting a [new issue](https://github.com/BeitDina/ChinesePictographic/issues/new).
 
