@@ -15,5 +15,7 @@ Version 0.1 Alpha
    For Windows: Right-click on the TTF file and select install
 
 
+## Getting Involved
 
+Send suggestions for changes to the *ChinesePictographic* project by submitting a [new issue](https://github.com/unicode-org/ChinesePictographic/issues/new).
 
