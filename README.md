@@ -2,7 +2,7 @@
 
 Version 0.1 Alpha
 
-# Pictographic Fonts for realizing the ancient alphabets comparation.  
+# This font contain glyphs of pictographs for realizing the ancient alphabets comparation. Basic radical information can be obtained for the 214 KangXi Radicals and also from the 115 additional CJK Radicals. 
 
 1. [To Install the Font on Computer]   
 
