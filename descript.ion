@@ -1,0 +1,11 @@
+CompositeFont.xml C j k radicals kangxi radicals U+2F00-2FDF
+ProtoChinese.html \n\n1. [Install Font on Computer](#install-font-on-computer)  \n2. [Install Font on Browser](#install-font-on-browser)  \n\n## Install Font on Computer\n   For Mac: Open the TTF file using Font Book, and click “install”  \n   For Windows: Right-click on the TTF file and select install\n\n## Install Font on Browser\n### Chromium Browsers (i.e. Google Chrome, Brave, ...):\n1. Open [chrome://settings/fonts](chrome://settings/fonts)  \n2. Set the Standard and Sans-serif font to ChinesePictographic\n\n### Firefox and PaleMoon\nFirefox > Preferences > Language and Appearance > Fonts and Colours\n\nMore at https://support.mozilla.org/en-US/kb/change-fonts-and-colors-websites-use\n\n\nÂ
+uni2EE5-x2ee5.svg U+2EE5 CJK RADICAL C-SIMPLIFIED FISH
+uni2FC2-x2fc2.svg U+2FC2 KANGXI RADICAL FISH
+uni2EE6-x2ee6.svg U+2EE6 CJK RADICAL C-SIMPLIFIED BIRD
+uni2FAB-x2fab.svg U+2FAB KANGXI RADICAL SHORT TAILED BIRD
+uni2FC3-x2fc3.svg U+2FC3 KANGXI RADICAL BIRD
+uni2FAB-x2fab-bird-head-oracle-bone.png U+2FAB KANGXI RADICAL SHORT TAILED BIRD
+uni2FC3-x2fc3-src.png U+2FC3 KANGXI RADICAL BIRD -- From the oldest known inscription of a family tree
+uni2FAB-x2fab-short_tailed_bird_on_bone.jpg U+2FAB KANGXI RADICAL SHORT TAILED BIRD
+ProtoChinese.svg /usr/bin/fontforge.exe -script C:\Wamp\www\webfont/assets/scripts/tosvg.pe ProtoChinese.svg
