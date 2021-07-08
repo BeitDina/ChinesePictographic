@@ -1,13 +1,85 @@
-.icon-uni2EE2:before {
-	content: "\2ee2";
+/*
+			! ProtoChinese ! 
+		 */
+	@font-face {
+		  font-family:'ProtoChinese'; 
+		  src:url('ProtoChinese.eot?v=0.1'); /* IE9-IE12 Compat Modes */
+		  src:url('ProtoChinese.eot?#iefix&v=0.1') format('embedded-opentype'), /* IE6-IE8 */ 
+		    url('ProtoChinese.woff2?v=0.1') format('woff2'), /* Modern Browsers */
+			url('ProtoChinese.woff?v=0.1') format('woff'), /* Modern Browsers */ 
+			url('ProtoChinese.ttf?v=0.1') format('truetype'), /* Safari, Android, iOS */ 
+			url('ProtoChinese.svg?v=0.1#ProtoChinese.eot') format('svg'), /* Legacy iOS  */
+			url('ProtoChinese.svg') format('svg');
+			font-weight: normal;
+			font-style: normal;
+	}
+	body {
+			font-family: sans-serif;
+			color: #444;
+			line-height: 1.5;
+			font-size: 16px;
+			padding: 20px;
+	}
+	* {
+			-moz-box-sizing: border-box;
+			-webkit-box-sizing: border-box;
+			box-sizing: border-box;
+			margin: 0;
+			paddin: 0;
+	}
+	.glyph{
+			display: inline-block;
+			width: 120px;
+			margin: 10px;
+			text-align: center;
+			vertical-align: top;
+			background: #eee;
+			border-radius: 10px;
+			box-shadow: 1px 1px 5px rgba(0, 0, 0, .2);
+	}
+	.glyph-icon{
+			padding: 10px;
+			display: block;
+			font-family: 'ProtoChinese';
+			font-size: 64px;
+			line-height: 1;
+	}
+	.glyph-icon:before{
+				content: attr(data-icon);
+	}
+	.class-name{
+				font-size: 12px;
+	}
+	.glyph > input{
+				display: block;
+				width: 100px;
+				margin: 5px auto;
+				text-align: center;
+				font-size: 12px;
+				cursor: text;
+	}
+	.glyph > input.icon-input{
+				font-family: 'ProtoChinese';
+				font-size: 16px;
+				margin-bottom: 10px;
+		}
+		.sr-only{ position:absolute;width:1px;height:1px;padding:0;margin:-1px;overflow:hidden;clip:rect(0, 0, 0, 0);border:0 }
+		.sr-only-focusable:active,.sr-only-focusable:focus{ position:static;width:auto;height:auto;margin:0;overflow:visible;clip:auto }.icon-uni-Ren-Fellow:before {
+	content: "\2e85";
 }
-.icon-uni2EE6:before {
-	content: "\2ee6";
-}
-.icon-uni2EAB:before {
+.icon-uni-EYE-2EAB:before {
 	content: "\2eab";
 }
-.icon-uni2F47:before {
+.icon-Mă-HORSE-2EE2:before {
+	content: "\2ee2";
+}
+.icon-uni-FISH-2EE5:before {
+	content: "\2ee5";
+}
+.icon-uni-BIRD-2EE6:before {
+	content: "\2ee6";
+}
+.icon-Ri-Sun-2F47:before {
 	content: "\2f47";
 }
 .icon-uni2F49:before {
