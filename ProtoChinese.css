@@ -67,6 +67,9 @@
 		.sr-only-focusable:active,.sr-only-focusable:focus{ position:static;width:auto;height:auto;margin:0;overflow:visible;clip:auto }.icon-uni-Ren-Fellow:before {
 	content: "\2e85";
 }
+.icon-uni2F2D:before {
+	content: "\2f2d";
+}
 .icon-uni-EYE-2EAB:before {
 	content: "\2eab";
 }
