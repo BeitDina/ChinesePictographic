@@ -67,6 +67,9 @@
 		.sr-only-focusable:active,.sr-only-focusable:focus{ position:static;width:auto;height:auto;margin:0;overflow:visible;clip:auto }.icon-uni-Ren-Fellow:before {
 	content: "\2e85";
 }
+.icon-uni2F49:before {
+	content: "\2f49";
+}
 .icon-uni2F2D:before {
 	content: "\2f2d";
 }
@@ -85,8 +88,14 @@
 .icon-Ri-Sun-2F47:before {
 	content: "\2f47";
 }
-.icon-uni2F49:before {
-	content: "\2f49";
+.icon-uni-sheep-yang-2F7A:before {
+	content: "\2f7a";
+}
+.icon-uni-ear-2F7F:before {
+	content: "\2f7f";
+}
+.icon-uni-gate-men-2FA8:before {
+	content: "\2fa8";
 }
 .icon-uni2FAB:before {
 	content: "\2fab";
