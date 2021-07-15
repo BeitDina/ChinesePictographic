@@ -106,11 +106,20 @@
 .icon-uni-2F3F-hand:before {
 	content: "\2f3f";
 }
+.icon-uni-2F4A-mu-tree:before {
+	content: "\2f4a";
+}
 .icon-uni-2F54-shui-water:before {
 	content: "\2f54";
 }
 .icon-uni-2F55-huo-fire:before {
 	content: "\2f55";
+}
+.icon-uni-2F5C-niuzi-ushi-cow:before {
+	content: "\2f5c";
+}
+.icon-uni-2F5D-quan-dog:before {
+	content: "\2f5d";
 }
 .icon-uni-2F7A-sheep-yang:before {
 	content: "\2f7a";
@@ -135,10 +144,4 @@
 }
 .icon-uni-2F6C:before {
 	content: "\2f6c";
-}
-.icon-uni-2FD6:before {
-	content: "\2fd6";
-}
-.icon-uni-5750:before {
-	content: "\5750";
 }
