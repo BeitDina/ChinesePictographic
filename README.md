@@ -19,3 +19,4 @@ Version 0.1 Alpha
 
 Send suggestions for changes to the *ChinesePictographic* project by submitting a [new issue](https://github.com/unicode-org/ChinesePictographic/issues/new).
 
+https://github.com/BeitDina/ChinesePictographic/blob/main/screenshouts/booklet_001_20072021_190900.jpg
