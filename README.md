@@ -1,6 +1,6 @@
 # ChinesePictographic
 
-Version 0.1 Alpha
+Version 0.022 Alpha
 
 # This font contain glyphs of pictographs for realizing the ancient alphabets comparation. Basic radical information can be obtained for the 214 KangXi Radicals and also from the 115 additional CJK Radicals. 
 
