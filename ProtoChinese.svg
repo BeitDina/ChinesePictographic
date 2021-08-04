@@ -4,7 +4,7 @@
     <!-- ============================================================= -->
     <!-- Proto Chinese Font                                                  -->
     <!-- ============================================================= -->
-<metadata id="metadata41">
+<metadata id="ProtoChinese">
 <Work about="ProtoChinese">
 <type resource="http://purl.org/dc/dcmitype/StillImage" />
 <title>ProtoChinese</title>
@@ -12,7 +12,7 @@
 <language>chinese</language>
 <publisher><Agent><title>beitdina.net</title></Agent></publisher>
 </Work>
-Created with FontForge 2.0 : ProtoChinese : 21-7-2021 by Florin Ciprian Bodin (C) Copyright 2021-2022 International Institute of Biblical Archaeology and Linguistic Reasearch "Beit Dina" (www.beitdina.net); 
+Created with FontForge 2.0 : ProtoChinese : 4-8-2021 by Florin Ciprian Bodin (C) Copyright 2021-2022 International Institute of Biblical Archaeology and Linguistic Reasearch "Beit Dina" (www.beitdina.net); 
 </metadata>
 <defs>
 <font id="ProtoChinese" horiz-adv-x="512" vert-adv-y="512" >
